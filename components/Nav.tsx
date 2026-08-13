@@ -33,7 +33,7 @@ export default function Nav() {
       }`}
     >
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4 sm:px-8">
-        <a href="#top" className="display text-xl tracking-tight">
+        <a href="#top" className="display text-2xl tracking-tight sm:text-3xl">
           {site.name}
           <span className="text-clay">.</span>
         </a>

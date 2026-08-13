@@ -30,12 +30,12 @@ export const site = {
   availability: "Available for new clients",
 
   headline: {
-    line1: "Consider it",
-    accent: "handled.", // rendered in italic serif
+    line1: "Less busywork,",
+    accent: "more business.", // rendered in italic serif
   },
 
   subheadline:
-    "I'm a detail-oriented virtual assistant with over three years of leadership and administrative experience as an Assistant Branch Manager — combining disciplined operations with AI-powered workflows to run your admin faster, and better.",
+    "I'm a detail-oriented virtual assistant with over three years of leadership and administrative experience as an Assistant Branch Manager. I combine disciplined operations with AI-powered workflows to run your admin faster and better.",
 
   stats: [
     { value: "3+", label: "Years of leadership & admin experience" },
