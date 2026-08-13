@@ -30,17 +30,22 @@ export default function About() {
           <div>
             <Reveal>
               <p className="text-lg leading-relaxed text-ink-soft">
-                Hi, I&apos;m {site.name} — a detail-oriented virtual assistant
-                based in {site.location}, with over three years of leadership
-                and administrative experience as an Assistant Branch Manager.
-                Running a branch taught me how to keep calendars, records and
-                people organized when every day brings something new.
+                Hi, I&apos;m {site.name}, a highly organized and detail-oriented
+                administrative professional from {site.location}, with over
+                three years of experience as an{" "}
+                <strong className="font-semibold text-ink">
+                  Assistant Branch Manager at M Lhuillier Pawnshop
+                </strong>
+                . I ran the branch day to day: operations, customer service,
+                cash handling, report preparation, record management, and team
+                supervision.
               </p>
               <p className="mt-5 text-lg leading-relaxed text-ink-soft">
-                Now I bring that same care to business owners — and I work
-                AI-first, using Claude, ChatGPT, Gemini and Midjourney daily to
-                draft, research, design and automate. You get the diligence of an
-                operations manager at the speed of modern tools.
+                Now I bring that same discipline to business owners as a virtual
+                assistant. I&apos;m proficient in Microsoft Office, Google
+                Workspace, Canva, Trello, Zoom and Google Meet, and I work
+                AI-first with Claude, ChatGPT, Gemini and Midjourney. You get
+                the diligence of a branch manager at the speed of modern tools.
               </p>
             </Reveal>
 
