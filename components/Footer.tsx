@@ -14,7 +14,8 @@ export default function Footer() {
           </h2>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-paper/70">
             If you&apos;re looking for a reliable, organized and proactive
-            virtual assistant, I&apos;d love to help your business grow.
+            Filipina virtual assistant, I&apos;d love to help your business
+            grow.
           </p>
         </Reveal>
 

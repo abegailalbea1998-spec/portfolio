@@ -10,8 +10,8 @@
 export const site = {
   name: "Abegail",
   legalName: "Abegail Albea",
-  fullName: "Abegail Albea — Virtual Assistant",
-  role: "Virtual Assistant",
+  fullName: "Abegail Albea — Filipina Virtual Assistant",
+  role: "Filipina Virtual Assistant",
   location: "Camalig, Albay, Philippines",
   timezone: "Open to clients across time zones",
   email: "abegailalbea97@gmail.com",
@@ -30,8 +30,8 @@ export const site = {
   availability: "Available for new clients",
 
   headline: {
-    line1: "Less busywork,",
-    accent: "more business.", // rendered in italic serif
+    line1: "Your trusted",
+    accent: "Filipina VA.", // rendered in italic serif
   },
 
   subheadline:
