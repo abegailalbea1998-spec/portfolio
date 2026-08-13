@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw source assets (copies live in public/)
+/new cv.pdf
+ChatGPT Image*.png
